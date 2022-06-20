@@ -4,6 +4,7 @@
 | DAYS  | LEETCODE PROBLEM NO |  NAME                         |  DIFFICULTY  |   SOLUTIONS                                                    |
 | :-----| :------------------ | :---------------------------- | :----------- |  :------------------------------------------------------------ |
 | DAY1 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | `Easy` | 👉[Click Here]() |
+|  | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | `Easy` | 👉[Click Here]() |
 
 
 
