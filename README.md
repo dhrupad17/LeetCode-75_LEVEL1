@@ -5,8 +5,8 @@
 | :-----| :------------------ | :---------------------------- | :----------- |  :------------------------------------------------------------ |
 | DAY1 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY1P1.md) |
 |  | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY1P2.md) |
-
-
+| DAY2 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY2P1.md) |
+|  | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY2P2.md) |
 
 
 
