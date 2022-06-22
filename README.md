@@ -7,8 +7,8 @@
 |  | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY1P2.md) |
 | DAY2 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY2P1.md) |
 |  | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY2P2.md) |
-
-
+| DAY3 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY3P1.md) |
+|  | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY3P2.md) |
 
 
 
