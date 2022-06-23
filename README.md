@@ -9,7 +9,8 @@
 |  | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY2P2.md) |
 | DAY3 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY3P1.md) |
 |  | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY3P2.md) |
-
+| DAY4 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY4P1.md) |
+|  | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY4P2.md) |
 
 
 
