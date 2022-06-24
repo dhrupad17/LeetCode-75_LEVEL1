@@ -11,7 +11,8 @@
 |  | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY3P2.md) |
 | DAY4 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY4P1.md) |
 |  | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY4P2.md) |
-
+| DAY5 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY5P1.md) |
+|  | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY5P2.md) |
 
 
 
