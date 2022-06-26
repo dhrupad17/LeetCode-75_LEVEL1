@@ -21,7 +21,8 @@
 |  | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY5P2.md) |
 | DAY6 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY6P1.md) |
 |  | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY6P2.md) |
-
+| DAY7 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY7P1.md) |
+|  | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY7P2.md) |
 
 
 
