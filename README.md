@@ -1,5 +1,11 @@
 # [LeetCode-75_LEVEL1](https://leetcode.com/study-plan/leetcode-75/?progress=zm70yje)
-![Logo](https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg)
+<p float="left">
+  <img src="https://assets.leetcode.com/study_plan/leetcode-75/cover.png" width="150" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" width="600" /> 
+</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ## Questions
 | DAYS  | LEETCODE PROBLEM NO |  NAME                         |  DIFFICULTY  |   SOLUTIONS                                                    |
 | :-----| :------------------ | :---------------------------- | :----------- |  :------------------------------------------------------------ |
