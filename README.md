@@ -23,7 +23,8 @@
 |  | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY6P2.md) |
 | DAY7 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY7P1.md) |
 |  | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY7P2.md) |
-
+| DAY8 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY8P1.md) |
+|  | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY8P2.md) |
 
 
 ## 🛠 Skills
