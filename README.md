@@ -27,7 +27,8 @@
 |  | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY8P2.md) |
 | DAY9 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY9P1.md) |
 |  | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY9P2.md) |
-
+| DAY10 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY10P1.md) |
+|  | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY10P2.md) |
 ## 🛠 Skills
   `Data Structures`,`Algorithms`,`Prefix Sum`,`String`,`Linked List`,`Greedy`,`Tree`,`Binary Search`,`Binary Search Tree`,`Graph/BFS/DFS`,`Dynamic Programming`,`Sliding Window/Two Pointer`,`Hashmap`,`Stack`,`Heap`,`java`
 
