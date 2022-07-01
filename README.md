@@ -31,7 +31,8 @@
 |  | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY10P2.md) |
 | DAY11 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY11P1.md) |
 |  | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY11P2.md) |
-
+| DAY12 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY12P1.md) |
+|  | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY12P2.md) |
 
 
 ## 🛠 Skills
