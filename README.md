@@ -33,7 +33,8 @@
 |  | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY11P2.md) |
 | DAY12 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY12P1.md) |
 |  | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY12P2.md) |
-
+| DAY13 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY13P1.md) |
+|  | 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY13P2.md) |
 
 ## 🛠 Skills
   `Data Structures`,`Algorithms`,`Prefix Sum`,`String`,`Linked List`,`Greedy`,`Tree`,`Binary Search`,`Binary Search Tree`,`Graph/BFS/DFS`,`Dynamic Programming`,`Sliding Window/Two Pointer`,`Hashmap`,`Stack`,`Heap`,`java`
