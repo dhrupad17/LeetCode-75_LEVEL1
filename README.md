@@ -37,6 +37,9 @@
 |  | 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY13P2.md) |
 | DAY14 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY14P1.md) |
 |  | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY14P2.md) |
+| DAY15 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | `Easy` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY15P1.md) |
+|  | 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL1/blob/main/DAY15P2.md) |
+
 
 ## 🛠 Skills
   `Data Structures`,`Algorithms`,`Prefix Sum`,`String`,`Linked List`,`Greedy`,`Tree`,`Binary Search`,`Binary Search Tree`,`Graph/BFS/DFS`,`Dynamic Programming`,`Sliding Window/Two Pointer`,`Hashmap`,`Stack`,`Heap`,`java`
